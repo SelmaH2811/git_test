@@ -1,0 +1,8 @@
+pwd - u kojem folderu se nalazim
+ls - daje listu fajlova u datom folderu
+cd .. - povratak u parent folder
+mkdir ime_foldera - za pravljenje foldera
+rm ime_foldera - briše folder
+nano - text editor
+
+
